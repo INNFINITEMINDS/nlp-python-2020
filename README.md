@@ -37,7 +37,7 @@ If you want to run the code on your computer, you have two options. You could us
 ```
 pip3 install -r requirements.txt
 ```
-* [other usefulll link ](https://www.kdnuggets.com/2020/10/roadmap-natural-language-processing-nlp.html)
+* [other usefulll link roadmap-natural-language-processing-nlp.](https://www.kdnuggets.com/2020/10/roadmap-natural-language-processing-nlp.html)
 ## Open-Access, Online Resources on Python and NLP
 
 * [Introduction to Jupyter Notebooks (Real Python)](https://realpython.com/jupyter-notebook-introduction/)
